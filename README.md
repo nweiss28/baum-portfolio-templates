@@ -7,7 +7,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
-# Portfolio
+# Nice! You're here! 
 Want to know what I can do for your organization? Look no further than my portfolio. Here you will find concrete examples of my work in data visualization. After all, what good is data if you can't tell a story with it? 
 
 # About me
@@ -23,6 +23,9 @@ If my brain were big and wrinkly enough, I'd learn everything. However, for now,
 3. Data analysis for the public good 
 
 # Portfolio
+
+Crafting for Clarity 
+Final Project 
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 

@@ -23,9 +23,8 @@ If my brain were big and wrinkly enough, I'd learn everything. However, for now,
 3. Data analysis for the public good 
 
 # Portfolio
-
-Crafting for Clarity 
-Final Project 
+1. Crafting for Clarity 
+2. Final Project 
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 

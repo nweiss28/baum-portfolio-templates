@@ -38,7 +38,8 @@ type='text/javascript'> var divElement = document.getElementById('viz17889006042
 </script>
 
 ## MakeoverMonday Project: How Has Democracy Fared? - A World Analysis (2018–2024) 
-![Original Visualization: Democracy Index 2024] <img width="2010" height="1350" alt="Screenshot 2026-09-18 021123" src="https://github.com/user-attachments/assets/7fddd1c3-5979-48f5-b57a-38778c89e87d" />
+### Original Visualization: Democracy Index 2024 
+<img width="2010" height="1350" alt="Screenshot 2026-09-18 021123" src="https://github.com/user-attachments/assets/7fddd1c3-5979-48f5-b57a-38778c89e87d" />
 
 
 # Examples

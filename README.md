@@ -43,10 +43,17 @@ type='text/javascript'> var divElement = document.getElementById('viz17889006042
 ### Original Visualization: Democracy Index 2024 
 <iframe src="https://archive.ourworldindata.org/20260910-011030/grapher/democracy-index-eiu.html?tab=map" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
 
+### Why I Selected This DataViz:
+
+### Coming Up with My Own Viz: 
+
+### The Finished Result: 
+<div class='tableauPlaceholder' id='viz1789714587724' style='position: relative'><noscript><a href='#'><img alt='How Has Democracy Fared? - A World Analysis (2018–2024) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HowHasDemocracyFared-AWorldAnalysis20182024&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HowHasDemocracyFared-AWorldAnalysis20182024&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ho&#47;HowHasDemocracyFared-AWorldAnalysis20182024&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1789714587724'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
+
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)

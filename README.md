@@ -41,8 +41,7 @@ type='text/javascript'> var divElement = document.getElementById('viz17889006042
 ## MakeoverMonday Project: How Has Democracy Fared? - A World Analysis (2018–2024) 
 
 ### Original Visualization: Democracy Index 2024 
-<img width="auto" height="auto" alt="Screenshot 2026-09-18 021123" src="https://github.com/user-attachments/assets/7fddd1c3-5979-48f5-b57a-38778c89e87d" />
-
+<iframe src="https://archive.ourworldindata.org/20260910-011030/grapher/democracy-index-eiu.html?tab=map" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 

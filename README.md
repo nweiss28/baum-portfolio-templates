@@ -55,7 +55,7 @@ Ultimately, I decided to choose something different because I was concerned that
 
 Although I did not go with a bubble chart, feedback from my classmates and Google Gemini pointed me in a better direction. A fellow MSPPM student suggested that I organize nations by continent, which I implemented in my final design. Another fellow student recommended that the observed time be reduced; although the original data visualization covers Democracy Indices from 2006 to 2024, values from the 2000s and early/mid-2010s are likely less meaningful in 2026. As such, I adjusted the time range to 2018-2024. Finally, when I was consulting Google Gemini to format my bubble chart, one of its responses offered an alternative: a scatterplot. 
 
-### My Takeaways from Feedback
+### My Takeaways from Feedback:
 The above advice touched on the following key points:
 
 -	Packing colors close together, while aesthetically pleasing, may confuse the reader and take their attention away from trends in democratic recovery and/or backsliding. 

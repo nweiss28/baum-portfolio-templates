@@ -6,7 +6,7 @@
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-Text here...
+How has the introduction of low-cost drones affected the efficacy and survivability of tanks on the battlefield? This project will explore the number of Russian tanks destroyed in Ukraine from 2022 - 2026, as well as the number of drones produced in that same time period. 
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 

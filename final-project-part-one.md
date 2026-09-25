@@ -17,7 +17,7 @@ For simplification, the word "tank" will encompass only Main Battle Tanks (MBTs)
 4. Why This is Important: This kind of emerging technology could pose a threat to not only tanks, but also other conventional weapons systems in the long term
 5. Call to Action: Tanks should incorporate anti-drone technology as a regular feature in its defense systems.
 
-## Initial sketches
+## Initial Sketch
 <img width="auto" height="auto" alt="IMG_4238" src="https://github.com/user-attachments/assets/7ee9447d-4c15-4fea-bee1-9efc33adf4ec" />
 
 In my initial sketch, I wanted to outline the impact of drone usage on the number of tanks destroyed. However, given that not every destroyed tank was caused by a drone attack (i.e., a tank can be destroyed by ground soldiers or another tank), I felt that it would be better to slightly pivot my project's focus. In this sense, I'm establishing correlation, rather than causation, between the destruction of tanks and production of drones. Nonetheless, the visual should give you an idea of my main argument, which is that tanks are generally vulnerable to drones. 
@@ -38,7 +38,7 @@ Warspotting is an open-source database that has been tracking Russian equipment 
 
 | ICFI | https://www.icfi.nl/news/frugal-warfare-ukrainian-drones-for-defence | An article from the International Centre for Frugal Innovation that mentions drone figures for 2022 |
 
-## Method and medium
+## Method and Medium
 
 Since my data sources do not have embedded spreadsheets or similarly organized, downloadable datasets, I plan on using Excel to organize the data and then run it through Tableau or Datawrapper. I will also use Shorthand to create a presentation that compares Russian Tank losses with Ukrainian drone production figures from 2022 - 2025. A small section will serve as a cost-benefit analysis 
 

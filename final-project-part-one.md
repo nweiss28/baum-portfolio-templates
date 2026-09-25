@@ -20,7 +20,7 @@ For simplification, the word "tank" will encompass only Main Battle Tanks (MBTs)
 ## Initial sketches
 <img width="auto" height="auto" alt="IMG_4238" src="https://github.com/user-attachments/assets/7ee9447d-4c15-4fea-bee1-9efc33adf4ec" />
 
-In my initial sketch, I wanted to outline the impact of drone usage on the number of tanks destroyed. However, given that not every destroyed tank was caused by a drone attack (i.e., a tank can be destroyed by ground soldiers or another tank), I felt that it would be better to slightly pivot my project's focus. In this sense, I'm establishing correlation, rather than causation, between the destruction of tanks and production of drones. Nontheless, the visual should give you an idea of my main argument, which is that tanks are generally vulnerable to drones. 
+In my initial sketch, I wanted to outline the impact of drone usage on the number of tanks destroyed. However, given that not every destroyed tank was caused by a drone attack (i.e., a tank can be destroyed by ground soldiers or another tank), I felt that it would be better to slightly pivot my project's focus. In this sense, I'm establishing correlation, rather than causation, between the destruction of tanks and production of drones. Nonetheless, the visual should give you an idea of my main argument, which is that tanks are generally vulnerable to drones. 
 
 ## The Data
 The difficult aspect of tracking a war is that the data is not always clean; specifically, although there is open-source data that tracks Russian tank losses (see below), the same cannot be said for Ukrainian drone production. Concerning the latter, even among reputable, nonpartisan sources, figures slightly vary. Given this difficulty, the data I was able to find on Ukrainian drone production/procurement came from university research institutes or nonpartisan think tanks. Ukraine's Ministry of Defence also has production figures for 2024 and 2025, but I wanted to lean more toward politically neutral sources. However, they will be available in the references section at the bottom, since I cross-referenced their information with the sources being used below. 
@@ -29,9 +29,13 @@ Warspotting is an open-source database that has been tracking Russian equipment 
 
 | Name | URL | Description |
 | WarSpotting | https://ukr.warspotting.net/ | A tracker of destroyed Russian vehicles from the start of the Ukraine War to today |
+
 | Aviation Week | https://aviationweek.com/defense/supply-chain/ukraine-eyes-drone-production-topping-7-million-units | A secondary source highlighting Ukrainian drone production in 2025 |
-| CSIS | https://www.csis.org/analysis/ukraines-future-vision-and-current-capabilities-waging-ai-enabled-autonomous-warfare | An article from a nonpartisan think tank that references 2024 drone figure |
+
+| CSIS | https://www.csis.org/analysis/ukraines-future-vision-and-current-capabilities-waging-ai-enabled-autonomous-warfare | An article from a nonpartisan think tank that references 2024 drone figures |
+
 | Polytechnique Insights | https://www.polytechnique-insights.com/en/columns/science/how-experience-in-ukraine-is-redefining-military-balances-with-5-million-drones-per-year/ | An article from The Polytechnic Institute of Paris that outlines 2023 drone production numbers |
+
 | ICFI | https://www.icfi.nl/news/frugal-warfare-ukrainian-drones-for-defence | An article from the International Centre for Frugal Innovation that mentions drone figures for 2022 |
 
 ## Method and medium
@@ -40,8 +44,18 @@ Since my data sources do not have embedded spreadsheets or similarly organized, 
 
 ## References
 _https://ukr.warspotting.net/_
+
 _https://aviationweek.com/defense/supply-chain/ukraine-eyes-drone-production-topping-7-million-units_
-_
+
+_https://www.csis.org/analysis/ukraines-future-vision-and-current-capabilities-waging-ai-enabled-autonomous-warfare_
+
+_https://www.polytechnique-insights.com/en/columns/science/how-experience-in-ukraine-is-redefining-military-balances-with-5-million-drones-per-year/_
+
+_https://www.icfi.nl/news/frugal-warfare-ukrainian-drones-for-defence_
+
+_https://mod.gov.ua/en/news/45-billion-from-partners-over-3-million-strike-drones-more-ukrainian-weapons-key-ministry-of-defence-highlights_
+
+_https://mod.gov.ua/en/news/rustem-umerov-ukrainian-made-drones-constituted-96-2-of-all-ua-vs-supplied-to-the-defence-forces-in-2024_
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_I used Google Gemini to create an Excel template to collect data from the listed sources. I also consulted it to help me find available information on Ukrainian drone production numbers._

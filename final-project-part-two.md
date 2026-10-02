@@ -41,7 +41,7 @@ Initially, I targeted my research toward stakeholders at armored vehicle manufac
 | For the argument, I think it makes sense to have a call-to-action in the conclusion | I'll discuss how the tank can stay relevant in my call-to-action section, which will serve as the conclusion. |
 
 ## References
-_[Regarding the M1E3 Abrams Prototype](ttps://www.congress.gov/crs-product/IF12495.)_
+_[Regarding the M1E3 Abrams Prototype](https://www.congress.gov/crs-product/IF12495)_
 
 ## AI acknowledgements
 _I did not use AI for this part of the final presentation._

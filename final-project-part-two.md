@@ -5,6 +5,8 @@
 I am using Shorthand for my wireframe and, ultimately, my final presentation.
 <script src="https://carnegiemellon.shorthandstories.com/the-evolving-battlefield-tanks-in-the-drone-age/embed.js"></script>
 
+_[Click here for alternate access link](https://carnegiemellon.shorthandstories.com/the-evolving-battlefield-tanks-in-the-drone-age/index.html)
+
 ## The data visualizations I will incorporate into my presentation can be found here (will be updated to include drone figures):
 
 ### Dataviz on Destroyed Russian Tanks (2022 - 2025):

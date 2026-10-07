@@ -2,8 +2,8 @@
 
 # Wireframes/Storyboards
 
-I am using Shorthand for my wireframe and, ultimately, my final presentation. Although it is unfinished at this point, the link can be found here:
-[My Shorthand presentation - IN DEVELOPMENT](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/bFtcktpJg9) 
+I am using Shorthand for my wireframe and, ultimately, my final presentation.
+<script src="https://carnegiemellon.shorthandstories.com/the-evolving-battlefield-tanks-in-the-drone-age/embed.js"></script>
 
 ## The data visualizations I will incorporate into my presentation can be found here (will be updated to include drone figures):
 

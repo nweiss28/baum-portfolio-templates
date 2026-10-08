@@ -2,7 +2,7 @@
 
 # Wireframes/Storyboards
 
-I am using Shorthand for my wireframe and, ultimately, my final presentation.
+## I am using Shorthand for my wireframe and final presentation, which can be found below:
 <script src="https://carnegiemellon.shorthandstories.com/the-evolving-battlefield-tanks-in-the-drone-age/embed.js"></script>
 
 _[Click here for alternate access link](https://carnegiemellon.shorthandstories.com/the-evolving-battlefield-tanks-in-the-drone-age/index.html)_

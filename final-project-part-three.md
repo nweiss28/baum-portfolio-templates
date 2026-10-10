@@ -1,5 +1,7 @@
 | [Data Viz Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project - Part 1](final-project-part-one) | [Final Project - Part 2](final-project-part-two) | [Final Project - Part 3](final-project-part-three) |
 
+# Final Project - Part 3
+
 # The Final Data Story
 <script src="https://carnegiemellon.shorthandstories.com/the-evolving-battlefield-tanks-in-the-drone-age/embed.js"></script>
 

@@ -1,36 +1,34 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+# The Final Data Story
+[Evolving Battlefield: Tanks in the Drone Age](https://carnegiemellon.shorthandstories.com/the-evolving-battlefield-tanks-in-the-drone-age/index.html)
 
-Text here!
+# Changes Made Since Part II
 
-# Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+## Data Visualizations
+On advice from a peer in the MAM program, I decided to use Datawrapper instead of Tableau to display my data because I believed the former was better for displaying my data cleanly and concisely. I was particularly impressed with the bar graph on Russian tank losses (from Part 2). With Datawrapper, the two bar types, main battle tanks (MBTs) and infantry fighting vehicles (IFVs), were placed next to each other without a space in between, solving the whitespace issue. Additionally, I was able to remove the white backgrounds of my visualizations, allowing them to blend in with my presentation's darker background. Tableau may also have this function, though Datawrapper was still the more sensible option for how I wanted to convey my data. Nonetheless, given that Tableau is an incredibly useful platform, I hope to explore this feature if it exists. 
 
-Text here!
+## Conveying My Argument
+Coming into this project, my initial thought was to establish a causal relationship between increased drone production and decreased tank survivability on the battlefield, with a focus on the Ukraine War. However, after sifting through many pictures of destroyed Russian vehicles on [WarSpotting](https://ukr.warspotting.net/), my data source for Russian MBT and IFV losses, this argument would not likely have held because **not every vehicle was destroyed by a drone.** Admittedly, I could have touched on this crucial point a bit more during my in-class presentation, though putting this aside, the data is still relevant because **there are still many pictures of tanks that were taken out by drones.** The main challenge of working with open-source data of this scale is going through the thousands of pictures of Russian vehicles that may/may not have been destroyed by Ukrainian drones, a task that proved too tedious for this project (at least for now). In the future, it may be worthwhile to reevaluate the data to more accurately reflect the effect of FPV drones on tank warfare. I could accomplish this task with another interested Heinz College/CMU student or with the help of AI, preferably Gemini or Claude. 
 
-## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+## The Power of the Prop 
+I presented on the last day of class, and thus had the opportunity to see the various presentations scheduled before mine. The ones that stood out the most to me incorporated props into their presentation; for example, a fellow Heinz College student wore an Indiana Fever jersey while presenting on the Indiana Fever, a basketball team in the WNBA. This simple design choice made the presentation more memorable because it expressed the student's creativity, elevating the presentation from a simple slide deck to an experience. For my presentation, I hopped aboard the prop train by bringing in a 1:35 scale model of an M1A2 Abrams. Although a subtle touch, I felt that it made my presentation more noteworthy. 
 
-Text here!
+## The Audience
+In my initial analysis, I had wanted to shape my message to target stakeholders in defense contractors, specifically those focused on ground weapons (e.g., General Dynamics Land Systems and BAE Systems). However, I concluded that this approach would not be the most meaningful because these defense companies already know of FPV drones (e.g., the M1E3 prototype mentioned in Part 2). As such, I changed my target audience from this group to U.S. policymakers focused on military policy and military leadership. Based on some of the feedback from my interviews, I got the idea that I should make my presentation less technical; it mattered more to discuss the effect of drones on tanks *overall* rather than get into technical specifications of certain vehicles, which would have likely been more appropriate for people who actually work within the defense industry. To make my presentation work, I used vocabulary that was detailed, but not overly complicated. Additionally, I kept paragraphs to a minimum; I figured that *showing*, rather than *telling*, my narrative through pictures and graphs would make for a more impactful story. Presenting visually instead of via text is also better, given that my new audience is comprised of individuals whose time comes at a premium. All of these factors combine to complement a presentation that is detailed, concise, and respectful of the audience's time. 
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+The relative lack of paragraphs in my presentation is fairly new to me because I am used to the traditional PowerPoint or Google Slides deck that contains a lot of text, which was originally how I envisioned my project's structure. However, I had to remove much of the text in my presentation to account for the 1-minute time limit. To compensate, I used images and practiced my script ahead of time to make sure my argument was detailed, but concise enough to be within a minute. It felt as if I was preparing for an elevator pitch. 
 
-Text here!
+In **Cost Comparison,** I initially planned on using a graph to visualize the difference in cost between a tank and an FPV drone. I ultimately decided against this method because I wanted to think a little bit outside the box; my idea culminated in using a large tank picture and a small drone picture to depict the considerable difference in cost. I placed both side-by-side, with the tank's gun pointing at the drone. As a visual aid, I included text beneath each image that outlined unit cost and set the text to be different colors based on price level; that is, I used red font to show how expensive the tank was and green font for the drone to highlight its relative affordability. In a way, the different-sized pictures were a data visualization, just not in the traditional sense. 
+
+A little fun fact: I added the pictures to my project the night before I was set to present. The images I had planned on using did not come from the public domain (i.e., some came from news websites where their attribution was unclear). To avoid a potential copyright violation, I carefully but promptly scoured Wikimedia Commons for good alternatives, which I fortunately found without much difficulty. I am still pleased with how my project turned out, though I will be more careful for my next presentation concerning the use of images. A good rule of thumb is that if an image's attribution is unclear or does not come from the public domain, then do not use it.  
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+_Listed on last slide of Shorthand presentation_
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
+In Part 1, I asked Google Gemini to create an Excel template for my tank and drone data; I used this template to organize my data so that Datawrapper could create visualizations from it. 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
-
-
+As mentioned in **Conveying my Argument,** I wish I had more time to fully dissect the data on destroyed Russian vehicles. I believe that I could have constructed a more compelling story if I had the time to go through the pictures of each destroyed MBT and IFV and find which ones were confirmed drone kills. On the bright side, this knowledge gap is an opportunity for future research, which would be incredibly valuable in this field because, besides [WarSpotting](https://ukr.warspotting.net/), organized databases on destroyed Russian equipment are very hard to find. Even WarSpotting falls short because they do not track Ukrainian losses. I found myself relying heavily on news articles for data collection, and although my sources were highly reputable, data from a database is usually more reliable than from a news outlet, since the latter may be prone to political bias. 

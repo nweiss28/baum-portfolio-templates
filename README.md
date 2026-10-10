@@ -1,5 +1,4 @@
 | [Data Viz Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project - Part 1](final-project-part-one) | [Final Project - Part 2](final-project-part-two) | [Final Project - Part 3](final-project-part-three) |
-[Image Source](https://ourworldindata.org/grapher/democracy-index-eiu) 
 
 # Nice! You're here! 
 Want to know what I can do for your organization? Look no further than my portfolio. Here you will find concrete examples of my work in data visualization. After all, what good is data if you can't tell a story with it? 

@@ -1,5 +1,7 @@
 | [Data Viz Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project - Part 1](final-project-part-one) | [Final Project - Part 2](final-project-part-two) | [Final Project - Part 3](final-project-part-three) |
 
+# Final Project - Part 2
+
 # Wireframes/Storyboards
 
 ## I am using Shorthand for my wireframe and final presentation, which can be found below:
